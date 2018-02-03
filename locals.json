@@ -1,0 +1,18 @@
+{
+	"tr": {
+		"btn": {
+			"welcome": {
+				"text": "Merhaba hoşgeldin"
+			},
+			"other": "Diğeri"
+		}
+	},
+	"en": {
+		"btn": {
+			"welcome": {
+				"text": "Hi Welcome"
+			},
+			"other": "Other"
+		}
+	}
+}

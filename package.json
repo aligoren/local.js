@@ -1,0 +1,18 @@
+{
+  "name": "local.js",
+  "version": "1.0.0",
+  "description": "Localization script for web sites which has the multiple languages.",
+  "main": "local.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "local",
+    "localize",
+    "localization",
+    "es6",
+    "vanillajs"
+  ],
+  "author": "Ali GÖREN",
+  "license": "UNLICENSED"
+}
